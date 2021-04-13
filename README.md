@@ -2,4 +2,4 @@
 
 1) Variance Threshold 
 2) Correlation Heatmap 
-3)SelectKBest
+3) SelectKBest
