@@ -7,8 +7,14 @@
  Mechanism to handle missing data  (use heat maps to the quick glance of your missing or null values)
 
  Fixing and removing missing or null 
+ 
+ Creating the numerical & categorial features lists
 
- Ask domain specific questions 
+ Ask domain specific questions with data visualization with graphs
+  Grid of distribution plots of all numerical features
+  Count plots of categorical features
+  
+
 
  # featureselection techniques (in progress)
 
