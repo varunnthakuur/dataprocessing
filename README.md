@@ -11,8 +11,10 @@
  Creating the numerical & categorial features lists
 
  Ask domain specific questions with data visualization with graphs
-  Grid of distribution plots of all numerical features
-  Count plots of categorical features
+ 
+ Grid of distribution plots of all numerical features
+ 
+ Count plots of categorical features
   
 
 
