@@ -1,13 +1,16 @@
-Dataset source: Kaggle (House Prices - Advanced Regression Techniques)
+# Dataset source: Kaggle (House Prices - Advanced Regression Techniques)
 
-Load data in panda dataframe
-Assess the data set (rows x columns, dtypes, nulls or missing values)
-Mechanism to handle missing data  (use heat maps to the quick glance of your missing or null values)
-Fixing and removing missing or null 
+ Load data in panda dataframe
 
-# Ask domain specific questions 
+ Assess the data set (rows x columns, dtypes, nulls or missing values)
+ 
+ Mechanism to handle missing data  (use heat maps to the quick glance of your missing or null values)
 
-# featureselection techniques 
+ Fixing and removing missing or null 
+
+ Ask domain specific questions 
+
+ # featureselection techniques (in progress)
 
 
 
