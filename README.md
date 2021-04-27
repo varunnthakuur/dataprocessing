@@ -10,7 +10,7 @@
  
  Creating the numerical & categorial features lists
 
- Ask domain specific questions with data visualization with graphs
+ Ask domain specific questions with data visualization using graphs
  
  Grid of distribution plots of all numerical features
  
